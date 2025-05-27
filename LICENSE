@@ -1,7 +1,56 @@
-Copyright (c) GitHub, Inc.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapa do Kawam, Samira e Maria Eduarda</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fef9f4;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #d35400;
+    }
+    .mascote {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .mascote img {
+      max-width: 200px;
+    }
+    .propostas, .mapa {
+      background-color: #fff8ee;
+      padding: 15px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px #ddd;
+      margin: 20px 0;
+    }
+    ul {
+      list-style-type: square;
+    }
+  </style>
+</head>
+<body>
+  <h1>Chapa do Kawam, Samira e Maria Eduarda</h1>  <div class="mascote">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Meerkat_Suricata_surikata.jpg/330px-Meerkat_Suricata_surikata.jpg" alt="Mascote Jornalito">
+    <h2>Conheça o Jornalito!</h2>
+    <p><strong>Jornalito</strong> é o nosso mascote! Um suricato que representa união, trabalho em equipe, atenção e empatia — tudo o que acreditamos para melhorar nossa escola.</p>
+  </div>  <div class="propostas">
+    <h2>Nossas Propostas</h2>
+    <ul>
+      <li>Auxiliar professores, direção e secretaria.</li>
+      <li>Promover ideias criativas sobre a escola e para a escola.</li>
+      <li>Ouvir os alunos e levar seus pedidos à direção.</li>
+      <li>Ser porta-voz da escola quando necessário.</li>
+      <li>Ajudar em eventos, projetos e atividades escolares.</li>
+      <li>Promover um espaço de igualdade e empatia.</li>
+      <li>Melhorar o ambiente escolar.</li>
+      <li>Incentivar o diálogo e o pensamento crítico.</li>
+      <li>Promover respeito mútuo entre professores e alunos.</li>
+      <li>Fortalecer a boa convivência entre todos da escola.</li>
+    </ul>
+  </div>  <div class="mapa">
+    <h2>Nosso Mapa Mental
